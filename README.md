@@ -18,3 +18,4 @@
 主站：https://cqp.cc
 
 文库：https://d.cqp.me
+"# develop KuQ robot by C++"
